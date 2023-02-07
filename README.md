@@ -1,4 +1,4 @@
-# ffxivpp
+# ffxivapp
 
 Simple landing page showing basic elements from a FFXIV character fetched from xivapi
 
